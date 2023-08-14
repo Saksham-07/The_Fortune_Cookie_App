@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"><!-- Button fill color -->
+    <corners android:radius="50dp" /> <!-- Half of the button's height for a perfect circle -->
+</shape>

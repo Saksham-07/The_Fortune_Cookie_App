@@ -1,0 +1,524 @@
+<resources>
+    <string name="app_name">The Fortune Cookie App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="fortune_text">
+        <item>A journey of a thousand miles begins with a single step.</item>
+        <item>Your talents will be recognized and suitably rewarded.</item>
+        <item>The greatest risk is not taking one.</item>
+        <item>A clear conscience is a soft pillow.</item>
+        <item>The best is yet to come.</item>
+        <item>Your smile is your best accessory.</item>
+        <item>Your success will astonish everyone.</item>
+        <item>Hard work pays off in the future, laziness pays off now.</item>
+        <item>Dreams are the seedlings of reality.</item>
+        <item>You will soon be surrounded by true friends.</item>
+        <item>Luck is on your side today.</item>
+        <item>You will find love in unexpected places.</item>
+        <item>Your efforts will be rewarded generously.</item>
+        <item>Keep your head high and your spirits higher.</item>
+        <item>Embrace change for growth.</item>
+        <item>Opportunities are like sunrises; if you wait too long, you miss them.</item>
+        <item>Your kindness will lead you to success.</item>
+        <item>Seize every opportunity as if it\'s your last.</item>
+        <item>Let your intuition guide you.</item>
+        <item>Success is a journey, not a destination.</item>
+        <item>A wise person listens before speaking</item>
+        <item>Your patience will be rewarded.</item>
+        <item>You are stronger than you think.</item>
+        <item>Good things come to those who wait.</item>
+        <item>Adventure awaits you around the corner.</item>
+        <item>The sky is not the limit; your mind is.</item>
+        <item>Everything happens for a reason.</item>
+        <item>Believe in yourself and others will too.</item>
+        <item>The only way to do great work is to love what you do.</item>
+        <item>Live for today, plan for tomorrow.</item>
+        <item>Your positive attitude will lead to success.</item>
+        <item>The world needs your creativity.</item>
+        <item>Your determination will overcome any obstacle.</item>
+        <item>A good friend is a treasure.</item>
+        <item>Success comes to those who work hard and stay focused.</item>
+        <item>Life is a journey – enjoy the ride.</item>
+        <item>Your happiness is a reflection of your thoughts.</item>
+        <item>Your potential is limitless.</item>
+        <item>Trust your instincts – they\'re rarely wrong.</item>
+        <item>The best way to predict the future is to create it.</item>
+        <item>Good things come to those who believe.</item>
+        <item>Your future is what you make of it.</item>
+        <item>An unexpected gift is on its way to you.</item>
+        <item>Your courage will take you places.</item>
+        <item>Your smile brightens someone\'s day.</item>
+        <item>Learn from yesterday, live for today, hope for tomorrow.</item>
+        <item>The world is full of beauty – notice it.</item>
+        <item>Challenges make life interesting; overcoming them makes life meaningful.</item>
+        <item>A friend\'s advice is priceless.</item>
+        <item>Your dreams are within reach.</item>
+        <item>A successful person is a dreamer who worked hard to achieve.</item>
+        <item>Time heals all wounds.</item>
+        <item>Your creative ideas will bring you success.</item>
+        <item>Stay true to yourself – it\'s the key to happiness.</item>
+        <item>Your optimism will lead to great opportunities.</item>
+        <item>The best is yet to come – believe it.</item>
+        <item>Your efforts will be rewarded in due time.</item>
+        <item>Focus on the present – it\'s a gift.</item>
+        <item>Trust your inner wisdom.</item>
+        <item>Your positive outlook will attract positivity.</item>
+        <item>Every ending is a new beginning.</item>
+        <item>Your passion will drive you to greatness.</item>
+        <item>Believe in your dreams and they will come true.</item>
+        <item>A new friendship is on the horizon.</item>
+        <item>Your kindness will open new doors.</item>
+        <item>You have the power to change lives.</item>
+        <item>Embrace challenges with a brave heart.</item>
+        <item>Love is all around you – embrace it.</item>
+        <item>Your potential is boundless.</item>
+        <item>Your hard work will pay off soon.</item>
+        <item>Every problem has a solution.</item>
+        <item>Your dedication will lead to success.</item>
+        <item>The sun always shines after the rain.</item>
+        <item>A true friend is on your side.</item>
+        <item>Keep a positive mindset – it\'s your greatest strength.</item>
+        <item>Your actions speak louder than words.</item>
+        <item>Adventure beckons – answer the call.</item>
+        <item>Your choices shape your destiny.</item>
+        <item>Life\'s challenges make you stronger.</item>
+        <item>The future belongs to those who believe in their dreams.</item>
+        <item>Your determination is unwavering.</item>
+        <item>Your honesty will lead you to success.</item>
+        <item>A bright future awaits you.</item>
+        <item>Stay curious – it leads to discovery.</item>
+        <item>Your positivity is contagious.</item>
+        <item>You are a beacon of light for others.</item>
+        <item>Your resilience knows no bounds.</item>
+        <item>Good things come to those who work diligently.</item>
+        <item>A loving heart is the beginning of all knowledge.</item>
+        <item>Your efforts will bear fruit.</item>
+        <item>Your kindness will be rewarded.</item>
+        <item>Believe in yourself – you\'re capable of greatness.</item>
+        <item>Your success story is just beginning.</item>
+        <item>A helping hand is never far away.</item>
+        <item>Life\'s challenges are stepping stones to success.</item>
+        <item>Your strength will carry you through tough times.</item>
+        <item>Your dreams are your reality in the making.</item>
+        <item>Believe in the magic of new beginnings.</item>
+        <item>Your optimism shines like a beacon.</item>
+        <item>You are the author of your life\'s story.</item>
+        <item>Your laughter is a healing melody.</item>
+        <item>Your journey is uniquely your own – embrace it.</item>
+        <item>Your potential for greatness is limitless.</item>
+        <item>The universe is conspiring in your favor.</item>
+        <item>Your dreams are the keys to unlock your destiny.</item>
+        <item>A new chapter of your life begins today.</item>
+        <item>Trust the process – it\'s leading you somewhere beautiful.</item>
+        <item>Your generosity will come back to you tenfold.</item>
+        <item>Your presence lights up any room.</item>
+        <item>Every experience adds color to your life\'s canvas.</item>
+        <item>Believe in your heart\'s desires – they hold the truth.</item>
+        <item>Your kindness makes the world a better place.</item>
+        <item>Your resilience is an inspiration to others.</item>
+        <item>Embrace change with an open heart.</item>
+        <item>Success is a journey best shared with others.</item>
+        <item>Your potential for success is boundless.</item>
+        <item>You possess the power to turn dreams into reality.</item>
+        <item>Every setback is a setup for a greater comeback.</item>
+        <item>Your uniqueness is your greatest asset.</item>
+        <item>You radiate positivity wherever you go.</item>
+        <item>Your ambition will lead to remarkable achievements.</item>
+        <item>Embrace challenges as stepping stones to growth.</item>
+        <item>Your life\'s purpose is unfolding before you.</item>
+        <item>Believe in the power of your dreams.</item>
+        <item>Your positive attitude attracts wonderful experiences.</item>
+        <item>Your courage knows no bounds.</item>
+        <item>The world is awaiting the impact of your talents.</item>
+        <item>You have the strength to conquer any mountain.</item>
+        <item>Your potential for success is limitless.</item>
+        <item>Every day is a chance to create a new story.</item>
+        <item>Trust in the timing of your life\'s journey.</item>
+        <item>Your actions today shape your tomorrow.</item>
+        <item>Your heart is a compass guiding you to happiness.</item>
+        <item>Believe in the magic of new beginnings.</item>
+        <item>You have the power to inspire those around you.</item>
+        <item>Your dreams hold the key to unlocking doors.</item>
+        <item>Your energy attracts positive outcomes.</item>
+        <item>Your enthusiasm is contagious – spread it.</item>
+        <item>Trust that the universe has amazing plans for you.</item>
+        <item>Your determination is unwavering and admirable.</item>
+        <item>Embrace the beauty of uncertainty.</item>
+        <item>Your inner strength knows no boundaries.</item>
+        <item>The world is full of endless possibilities for you.</item>
+        <item>Your potential for success is unparalleled.</item>
+        <item>Every day is a gift – embrace it with joy.</item>
+        <item>Your journey is a masterpiece in the making.</item>
+        <item>Believe in your ability to rise above challenges.</item>
+        <item>Your positive mindset empowers you to overcome.</item>
+        <item>Your passion lights the path to success.</item>
+        <item>Trust your instincts – they lead to remarkable places.</item>
+        <item>Your dreams are the stars guiding your way.</item>
+        <item>Every challenge you face is a stepping stone.</item>
+        <item>Your kindness has the power to change lives.</item>
+        <item>Embrace change as an opportunity for growth.</item>
+        <item>Your unique perspective is your greatest strength.</item>
+        <item>Believe in your dreams – they are within reach.</item>
+        <item>Your enthusiasm brings vitality to everything you do.</item>
+        <item>Your creativity has the power to shape the world.</item>
+        <item>Your resilience shines through life\'s trials.</item>
+        <item>Embrace challenges as catalysts for transformation.</item>
+        <item>Your potential knows no limits.</item>
+        <item>Trust that life is unfolding perfectly for you.</item>
+        <item>Your actions today pave the way for tomorrow\'s success.</item>
+        <item>Your heart\'s desires are within your grasp.</item>
+        <item>Believe in the magic of your own journey.</item>
+        <item>Your positivity radiates like the sun.</item>
+        <item>Your determination is a force to be reckoned with.</item>
+        <item>Embrace change as a doorway to new adventures.</item>
+        <item>Your potential for greatness is inspiring.</item>
+        <item>Your spirit is unbreakable in the face of challenges.</item>
+        <item>Trust that the universe is guiding your path.</item>
+        <item>Your dreams hold the keys to unlock your destiny.</item>
+        <item>Your resilience is a beacon of hope.</item>
+        <item>Believe in yourself – you are capable of miracles.</item>
+        <item>Your kindness leaves a lasting impact.</item>
+        <item>Your determination will lead to remarkable achievements.</item>
+        <item>Embrace change with an open heart and open mind.</item>
+        <item>Your potential for success is unparalleled.</item>
+        <item>Your positivity attracts blessings and abundance.</item>
+        <item>Your courage empowers you to overcome any hurdle.</item>
+        <item>Trust that life\'s twists and turns lead to growth.</item>
+        <item>Your dreams are your roadmap to the future.</item>
+        <item>Your strength is a source of inspiration to many.</item>
+        <item>Believe in the power of your unique journey.</item>
+        <item>Your enthusiasm is a catalyst for positive change.</item>
+        <item>Your creativity knows no bounds.</item>
+        <item>Your resilience is a testament to your strength.</item>
+        <item>Embrace challenges as opportunities for growth.</item>
+        <item>Embrace uncertainty with courage and grace.</item>
+        <item>Your potential for success is like a hidden treasure.</item>
+        <item>Your creativity flows like an endless river.</item>
+        <item>Your dreams are the building blocks of your future.</item>
+        <item>Believe in yourself, and others will too.</item>
+        <item>Your perseverance is your secret weapon.</item>
+        <item>Embrace each day with a heart full of gratitude.</item>
+        <item>Your kindness has the power to change the world.</item>
+        <item>Trust the whispers of your intuition.</item>
+        <item>Your smile brightens the darkest of days.</item>
+        <item>Your passion ignites the flame of possibility.</item>
+        <item>Embrace change as an opportunity for growth.</item>
+        <item>Your life\'s journey is uniquely your own.</item>
+        <item>Your optimism is a beacon of light.</item>
+        <item>Believe in the magic of new beginnings.</item>
+        <item>Your strength is a rock that withstands storms.</item>
+        <item>Your potential for success is limitless, like the sky.</item>
+        <item>Your dreams are the seeds of your destiny.</item>
+        <item>Embrace challenges as stepping stones to greatness.</item>
+        <item>Your heart\'s desires will guide you to fulfillment.</item>
+        <item>Your determination is your compass in times of doubt.</item>
+        <item>Believe in yourself – you are a force to be reckoned with.</item>
+        <item>Your kindness ripples through the fabric of the universe.</item>
+        <item>Your positivity is a magnet for wonderful experiences.</item>
+        <item>Your resilience is your armor against adversity.</item>
+        <item>Embrace each moment as a precious gift.</item>
+        <item>Your journey is sculpting a masterpiece of strength.</item>
+        <item>Your potential shines like the morning sun.</item>
+        <item>Believe in your ability to turn dreams into reality.</item>
+        <item>Your courage propels you beyond your comfort zone.</item>
+        <item>Your dreams are the stars guiding your path.</item>
+        <item>Your actions today shape the legacy you leave behind.</item>
+        <item>Embrace the unknown – it holds treasures untold.</item>
+        <item>Your uniqueness is a gift to the world.</item>
+        <item>Your determination fuels the engine of achievement.</item>
+        <item>Believe in your power to create positive change.</item>
+        <item>Your kindness is a language understood by all.</item>
+        <item>Your passion is a fire that burns brightly within.</item>
+        <item>Your potential for success is a tapestry of possibility.</item>
+        <item>Embrace challenges as opportunities in disguise.</item>
+        <item>Your dreams paint the canvas of your reality.</item>
+        <item>Your optimism is a ray of sunlight on cloudy days.</item>
+        <item>Believe in your capacity to overcome any obstacle.</item>
+        <item>Your generosity multiplies like drops in a pond.</item>
+        <item>Your resilience is the wind beneath your wings.</item>
+        <item>Your potential for success is like an uncharted map.</item>
+        <item>Embrace change as the rhythm of life\'s dance.</item>
+        <item>Your dreams are a blueprint for your destiny.</item>
+        <item>Your kindness plants seeds of love in the world.</item>
+        <item>Your courage is a lighthouse guiding you through storms.</item>
+        <item>Believe in yourself – you hold the key to greatness.</item>
+        <item>Your energy attracts people who align with your vision.</item>
+        <item>Your potential for success is a symphony of possibility.</item>
+        <item>Your dreams are whispers from your soul.</item>
+        <item>Embrace challenges as opportunities to shine.</item>
+        <item>Your heart\'s desires are the compass of your journey.</item>
+        <item>Your kindness is a ripple that reaches distant shores.</item>
+        <item>Your determination is an unwavering force.</item>
+        <item>Your potential for success is a constellation of hope.</item>
+        <item>Believe in the strength within you – it\'s boundless.</item>
+        <item>Your dreams are stepping stones to your destiny.</item>
+        <item>Your resilience is a flame that cannot be extinguished.</item>
+        <item>Your potential for success is as vast as the ocean.</item>
+        <item>Your dreams are the stars guiding your voyage.</item>
+        <item>Embrace change as a brushstroke on the canvas of life.</item>
+        <item>Your kindness is the thread weaving connections.</item>
+        <item>Your courage empowers you to conquer any challenge.</item>
+        <item>Your potential for success is a melody waiting to be composed.</item>
+        <item>Your dreams carry the power to shape reality.</item>
+        <item>Your resilience is a testament to your strength.</item>
+        <item>Your potential for success is a puzzle with endless pieces.</item>
+        <item>Your dreams are the sparks that ignite your passions.</item>
+        <item>Embrace challenges as allies on your journey.</item>
+        <item>Your heart\'s desires are the echoes of your purpose.</item>
+        <item>Your kindness sets in motion a cycle of goodness.</item>
+        <item>Your determination is the force that propels you forward.</item>
+        <item>Your potential for success is a garden of opportunity.</item>
+        <item>Your dreams have the power to rewrite destinies.</item>
+        <item>Your resilience is the anchor in life\'s storms.</item>
+        <item>Your potential for success is a symphony of achievement.</item>
+        <item>Your dreams are the lighthouse guiding your way.</item>
+        <item>Your kindness spreads like wildflowers in the wind.</item>
+        <item>Your courage shines brightest in moments of adversity.</item>
+        <item>Your potential for success is a mountain waiting to be climbed.</item>
+        <item>Your dreams hold the keys to unlocking doors.</item>
+        <item>Your resilience is a beacon of hope in the dark.</item>
+        <item>Your potential for success is like a phoenix rising.</item>
+        <item>Your dreams are the stars that light your path.</item>
+        <item>Your kindness is a gift that keeps on giving.</item>
+        <item>Your courage is your sword against life\'s challenges.</item>
+        <item>Your potential for success is a symphony of determination.</item>
+        <item>Your dreams are the compass guiding your journey.</item>
+        <item>Your resilience is the foundation of your strength.</item>
+        <item>Your positivity is a magnet for miracles.</item>
+        <item>Your dreams are seeds that blossom into reality.</item>
+        <item>Believe in your journey – it\'s worth every step.</item>
+        <item>Your kindness is a bridge connecting hearts.</item>
+        <item>Your courage is the wind beneath your wings.</item>
+        <item>Your potential for success is an uncharted galaxy.</item>
+        <item>Your dreams are the stars guiding your destiny.</item>
+        <item>Embrace challenges as invitations to grow.</item>
+        <item>Your heart\'s desires are the whispers of your soul.</item>
+        <item>Your kindness is a beacon of light in the world.</item>
+        <item>Your determination writes the story of your success.</item>
+        <item>Your potential for greatness is limitless and boundless.</item>
+        <item>Believe in your power to create positive change.</item>
+        <item>Your dreams are the roadmap to your purpose.</item>
+        <item>Your resilience is the armor against life\'s trials.</item>
+        <item>Your potential for success is a symphony of hope.</item>
+        <item>Your dreams are the brushstrokes of your masterpiece.</item>
+        <item>Your kindness leaves footprints of love everywhere.</item>
+        <item>Your courage emboldens you to overcome obstacles.</item>
+        <item>Your potential for success is a constellation of possibility.</item>
+        <item>Your dreams are the melodies of your soul.</item>
+        <item>Embrace challenges as opportunities to rise.</item>
+        <item>Your heart\'s desires are the stars guiding your path.</item>
+        <item>Your kindness is the glue that binds communities.</item>
+        <item>Your determination fuels the engine of progress.</item>
+        <item>Your potential for success is an ocean of opportunity.</item>
+        <item>Your dreams are the beacons of your journey.</item>
+        <item>Your resilience is the foundation of your strength.</item>
+        <item>Your potential for greatness is a universe of potential.</item>
+        <item>Believe in the magic of your unique story.</item>
+        <item>Your dreams are the footprints you leave in time.</item>
+        <item>Your courage empowers you to conquer fear.</item>
+        <item>Your potential for success is a garden of achievement.</item>
+        <item>Your dreams are the stars illuminating your way.</item>
+        <item>Your resilience is a testament to your spirit.</item>
+        <item>Your potential for success is a symphony of ambition.</item>
+        <item>Your dreams are the keys to unlocking doors.</item>
+        <item>Your kindness radiates like sunlight on water.</item>
+        <item>Your courage is the compass guiding your journey.</item>
+        <item>Your potential for greatness is a constellation of dreams.</item>
+        <item>Your dreams are the footprints of your legacy.</item>
+        <item>Your resilience is a lighthouse in life\'s storms.</item>
+        <item>Your potential for success is an orchestra of possibility.</item>
+        <item>Your dreams are the stars painting your night sky.</item>
+        <item>Your kindness creates a ripple of harmony.</item>
+        <item>Your courage is the fire that burns through challenges.</item>
+        <item>Your potential for success is a galaxy of opportunity.</item>
+        <item>Your dreams are the symphony of your journey.</item>
+        <item>Your resilience is the anchor in the sea of life.</item>
+        <item>Your potential for greatness is an infinite spark.</item>
+        <item>Your dreams are the lanterns lighting your way.</item>
+        <item>Your kindness flows like a river of compassion.</item>
+        <item>Your courage is the star guiding you through night.</item>
+        <item>Your potential for success is a constellation of potential.</item>
+        <item>Your dreams are the sails steering your ship.</item>
+        <item>Your resilience is the armor against life\'s battles.</item>
+        <item>Your potential for greatness is a universe of possibility.</item>
+        <item>Your dreams are the stars guiding your destiny.</item>
+        <item>Your kindness ripples through time and space.</item>
+        <item>Your courage is the wind that carries you forward.</item>
+        <item>Your potential for success is a symphony of dreams.</item>
+        <item>Your dreams are the footprints on your path.</item>
+        <item>Your resilience is the light that guides your way.</item>
+        <item>Your potential for greatness is an eternal flame.</item>
+        <item>Your dreams are the stars in your constellation.</item>
+        <item>Your kindness paints the world in hues of love.</item>
+        <item>Your courage is the sword that slays doubts.</item>
+        <item>Your potential for success is a symphony of aspiration.</item>
+        <item>Your dreams are the sparks that ignite your spirit.</item>
+        <item>Your resilience is the foundation of your strength.</item>
+        <item>Your potential for greatness is a sky of opportunity.</item>
+        <item>Your dreams are the notes that compose your melody.</item>
+        <item>Your kindness is the echo that resonates far and wide.</item>
+        <item>Your courage is the spark that ignites change.</item>
+        <item>Your potential for success is a universe of achievement.</item>
+        <item>Your dreams are the constellations guiding your way.</item>
+        <item>Your resilience is the fortress of your spirit.</item>
+        <item>Your potential for greatness is a symphony of potential.</item>
+        <item>Your dreams are the stories written in your heart.</item>
+        <item>Your kindness is the river that nurtures souls.</item>
+        <item>Your courage is the beacon in the fog of uncertainty.</item>
+        <item>Your potential for success is a garden of dreams.</item>
+        <item>Your dreams are the steps to your destiny.</item>
+        <item>Your resilience is the anchor that steadies you.</item>
+        <item>Your potential for greatness is a canvas of potential.</item>
+        <item>Your dreams are the melodies that inspire your journey.</item>
+        <item>Your kindness is the balm that heals wounds.</item>
+        <item>Your courage is the key that unlocks doors.</item>
+        <item>Your potential for success is as vast as the cosmos.</item>
+        <item>Your dreams are the constellations guiding your journey.</item>
+        <item>Your kindness is a ripple that spreads love far and wide.</item>
+        <item>Your courage is a spark that lights the path ahead.</item>
+        <item>Your potential for greatness is a symphony of dreams.</item>
+        <item>Your dreams are the threads weaving your destiny.</item>
+        <item>Your resilience is the fortress that defends your spirit.</item>
+        <item>Your potential for success is an ocean of possibilities.</item>
+        <item>Your dreams are the stars that brighten your nights.</item>
+        <item>Your kindness is a beacon in the sea of chaos.</item>
+        <item>Your courage is the compass that steers you through storms.</item>
+        <item>Your potential for greatness is a garden of hope.</item>
+        <item>Your dreams are the melodies that dance in your heart.</item>
+        <item>Your resilience is the foundation of your strength.</item>
+        <item>Your potential for success is a symphony of ambition.</item>
+        <item>Your dreams are the roadmaps to your aspirations.</item>
+        <item>Your kindness is a tapestry woven with compassion.</item>
+        <item>Your courage is the fuel that propels you forward.</item>
+        <item>Your potential for greatness is as endless as the horizon.</item>
+        <item>Your dreams are the whispers guiding your decisions.</item>
+        <item>Your resilience is a fortress against life\'s challenges.</item>
+        <item>Your potential for success is a garden of possibilities.</item>
+        <item>Your dreams are the stars that light your path.</item>
+        <item>Your kindness is a lantern that guides others.</item>
+        <item>Your courage is a beacon in the darkest nights.</item>
+        <item>Your potential for greatness is a symphony of ambition.</item>
+        <item>Your dreams are the footprints you leave in time.</item>
+        <item>Your resilience is the lighthouse in life\'s storms.</item>
+        <item>Your potential for success is a constellation of potential.</item>
+        <item>Your dreams are the notes composing your journey.</item>
+        <item>Your kindness is a ripple that reaches distant shores.</item>
+        <item>Your courage is a fire that burns through doubt.</item>
+        <item>Your potential for greatness is a universe of opportunity.</item>
+        <item>Your dreams are the guides on your adventure.</item>
+        <item>Your resilience is the core of your strength.</item>
+        <item>Your potential for success is an endless horizon.</item>
+        <item>Your dreams are the stars that shine in your sky.</item>
+        <item>Your kindness is a river that flows through hearts.</item>
+        <item>Your courage is a light in the darkest of tunnels.</item>
+        <item>Your potential for greatness is a symphony of potential.</item>
+        <item>Your dreams are the beacons lighting your way.</item>
+        <item>Your resilience is the foundation of your spirit.</item>
+        <item>Your potential for success is a garden of dreams.</item>
+        <item>Your dreams are the colors painting your life.</item>
+        <item>Your kindness is a ripple that touches souls.</item>
+        <item>Your courage is a sword that slays fears.</item>
+        <item>Your potential for greatness is an ocean of possibilities.</item>
+        <item>Your dreams are the footprints leading your journey.</item>
+        <item>Your resilience is the anchor in life\'s tempests.</item>
+        <item>Your potential for success is a symphony of ambition.</item>
+        <item>Your dreams are the stars illuminating your path.</item>
+        <item>Your kindness is a flame that warms hearts.</item>
+        <item>Your courage is a torch that lights the way.</item>
+        <item>Your potential for greatness is a universe of potential.</item>
+        <item>Your dreams are the stories etched on your heart.</item>
+        <item>Your resilience is the strength that carries you forward.</item>
+        <item>Your potential for success is a galaxy of possibility.</item>
+        <item>Your dreams are the melodies that shape your life.</item>
+        <item>Your kindness is a river that nurtures souls.</item>
+        <item>Your courage is a star that guides your course.</item>
+        <item>Your potential for greatness is an endless journey.</item>
+        <item>Your dreams are the constellations guiding your path.</item>
+        <item>Your resilience is the core of your strength.</item>
+        <item>Your potential for success is a symphony of hope.</item>
+        <item>Your dreams are the footprints on your destiny.</item>
+        <item>Your kindness is a ripple that echoes through time.</item>
+        <item>Your courage is the beacon that lights the way.</item>
+        <item>Your potential for greatness is a galaxy of opportunity.</item>
+        <item>Your dreams are the stars painting your sky.</item>
+        <item>Your resilience is the rock that stands firm.</item>
+        <item>Your potential for success is an endless expanse.</item>
+        <item>Your dreams are the melodies that resonate within.</item>
+        <item>Your kindness is a tapestry of love.</item>
+        <item>Your courage is the strength that pushes forward.</item>
+        <item>Your potential for greatness is a symphony of ambition.</item>
+        <item>Your dreams are the footprints leading to destiny.</item>
+        <item>Your resilience is the shield against life\'s battles.</item>
+        <item>Your potential for success is a world of potential.</item>
+        <item>Your dreams are the notes that compose your legacy.</item>
+        <item>Your kindness is the balm that soothes souls.</item>
+        <item>Your courage is the sword that conquers obstacles.</item>
+        <item>Your potential for success is as boundless as the sky.</item>
+        <item>Your dreams are the constellations guiding your fate.</item>
+        <item>Your kindness is a beacon that shines in the darkness.</item>
+        <item>Your courage is a spark that ignites new possibilities.</item>
+        <item>Your potential for greatness is a symphony of talents.</item>
+        <item>Your dreams are the threads weaving your life\'s story.</item>
+        <item>Your resilience is the fortress safeguarding your spirit.</item>
+        <item>Your potential for success is an ocean of opportunities.</item>
+        <item>Your dreams are the stars lighting up your journey.</item>
+        <item>Your kindness is a ripple of compassion across waters.</item>
+        <item>Your courage is a compass that points toward triumph.</item>
+        <item>Your potential for greatness is a garden of achievements.</item>
+        <item>Your dreams are the notes composing your destiny\'s song.</item>
+        <item>Your resilience is the bedrock upon which you stand.</item>
+        <item>Your potential for success is a symphony of aspirations.</item>
+        <item>Your dreams are the blueprints of your future endeavors.</item>
+        <item>Your kindness is a quilt sewn with empathy and care.</item>
+        <item>Your courage is the flame that conquers life\'s shadows.</item>
+        <item>Your potential for greatness is a universe of promise.</item>
+        <item>Your dreams are the melodies of your life\'s music.</item>
+        <item>Your resilience is the anchor in the midst of storms.</item>
+        <item>Your potential for success is a symphony of dreams.</item>
+        <item>Your dreams are the stars guiding your way forward.</item>
+        <item>Your kindness is a river that flows through hearts.</item>
+        <item>Your courage is a light that pierces through fear.</item>
+        <item>Your potential for greatness is an endless horizon.</item>
+        <item>Your dreams are the colors that paint your existence.</item>
+        <item>Your resilience is the fortress that shields your soul.</item>
+        <item>Your potential for success is a galaxy of potential.</item>
+        <item>Your dreams are the footprints that lead you onward.</item>
+        <item>Your kindness is a beacon in the night of doubt.</item>
+        <item>Your courage is a torch that guides your way.</item>
+        <item>Your potential for greatness is a garden of dreams.</item>
+        <item>Your dreams are the stars that light your path.</item>
+        <item>Your resilience is the core of your strength.</item>
+        <item>Your potential for success is a symphony of ambitions.</item>
+        <item>Your dreams are the guides on your adventure.</item>
+        <item>Your kindness is a tapestry woven with care.</item>
+        <item>Your courage is a fire that burns through challenges.</item>
+        <item>Your potential for greatness is an ocean of possibilities.</item>
+        <item>Your dreams are the footprints that lead the way.</item>
+        <item>Your resilience is the lighthouse in life\'s storm.</item>
+        <item>Your potential for success is a constellation of potential.</item>
+        <item>Your dreams are the notes that compose your journey.</item>
+        <item>Your kindness is a ripple that touches souls.</item>
+        <item>Your courage is a sword that vanquishes fears.</item>
+        <item>Your potential for greatness is a universe of opportunity.</item>
+        <item>Your dreams are the guides on your journey.</item>
+        <item>Your resilience is the core of your strength.</item>
+        <item>Your potential for success is a symphony of hope.</item>
+        <item>Your dreams are the footprints that guide your destiny.</item>
+        <item>Your kindness is a ripple that echoes through time.</item>
+        <item>Your courage is a beacon that lights your way.</item>
+        <item>Your potential for greatness is a galaxy of opportunity.</item>
+        <item>Your dreams are the stars that adorn your sky.</item>
+        <item>Your resilience is the rock that stands firm.</item>
+        <item>Your potential for success is an endless expanse.</item>
+        <item>Your dreams are the melodies that resonate within.</item>
+        <item>Your kindness is a tapestry woven with love.</item>
+        <item>Your courage is a strength that propels you forward.</item>
+        <item>Your potential for greatness is a symphony of ambition.</item>
+        <item>Your dreams are the footprints that lead to destiny.</item>
+        <item>Your resilience is the shield that defends against challenges.</item>
+        <item>Your potential for success is a world of potential.</item>
+        <item>Your dreams are the notes that compose your legacy.</item>
+        <item>Your kindness is the balm that soothes souls.</item>
+        <item>Your courage is the sword that overcomes obstacles.</item>
+    </string-array>
+</resources>
